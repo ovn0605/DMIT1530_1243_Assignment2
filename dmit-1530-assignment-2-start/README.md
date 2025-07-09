@@ -1,6 +1,6 @@
 ## DMIT1530: Assignment 2
 
-This lab is an idividual exercise worth 15% of your overall mark. 
+This lab is an idividual exercise worth 20% of your overall mark. 
 
 For the complete rubric and Figma wireframe, please refer to your course section's Moodle instance. 
 
